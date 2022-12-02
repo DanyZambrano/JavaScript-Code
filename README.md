@@ -4,12 +4,9 @@
 
 > JAVASCRIPT IS A HIGH-LEVEL, OBJECT-ORIENTED, MULTI-PARADIGM PROGRAMMING LANGUAGE.
 
-
 ![Drag Racing](/Assets/whatis_javascript.png)
 
-
 </br>
-
 
 ## History
 ![Drag Racing](/Assets/javascript_history.png)
